@@ -2,25 +2,32 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/98066200?v=4"  />
 </div>
 
-
-
 <h1 align="center">Olá, eu me chamo Bryan</h1>
+<p align="center"> Você pode saber mais sobre mim <a href="https://bryandeveloper.netlify.app/"  target="_blank"> aqui <a/> <p/>
 
-###
+<h3 align="center">Redes Sociais</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bryanzefino/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/bryan_developer/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+</div>
 
-###
+<br/>
 
-<p align="left">- Faço faculdade de Análise e desenvolvimento de sistemas.<br>- Tenho como objetivo ser um desenvolvedor Full-Stack</p>
+<h3 align="center">👩‍💻  Sobre mim</h3>
 
-###
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me tornar um desenvolvedor Full-Stack.</p>
 
-<h3 align="left">👌Techs que uso com Frequência em Projetos</h3>
+<br/>
+<br/>
 
-###
+<h3 align="center">👌 Tecnologias que uso com Frequência em Projetos</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -34,17 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
 </div>
 
-###
+<br/>
+<br/>
 
-<p align="left"></p>
+<h3 align="center">🤖 Outras Tecnologias que já utilizei em projetos</h3>
 
-###
-
-<h3 align="left">🤖Já usei em projetos e tenho conhecimento</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
@@ -54,34 +56,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
 </div>
 
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">Redes Sociais</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/bryanzefino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/bryan_developer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Bryanzef/Bryanzef/output/snake.svg" alt="Snake animation" />
-
-###
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bryanzef&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="158" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bryanzef&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br/>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=Bryanzef&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </p>
 </div>
 
-###
